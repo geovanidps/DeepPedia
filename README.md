@@ -153,7 +153,7 @@ http://tj3ty2q5jm5au3bmd2embtjscd3qjt7nfio2o7cr6moyy5kgil5pieqd.onion/
 
 
 
-# Rede Tor disponível:
+# Rede Tor para navegar de forma segura:
 
 * https://www.torproject.org/*
 *  https://brave.com/download/ *
